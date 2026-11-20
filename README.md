@@ -28,3 +28,10 @@ This project focuses on analyzing call center performance using Business Intelli
 - Monitor key performance indicators (KPIs).
 - Improve data visualization.
 - Support data-driven decision-making.
+## Dashboard Preview
+
+The following dashboard provides an overview
+of call center performance through interactive
+visualizations and key performance indicators.
+
+![Call Center Dashboard](dashboard.png)
